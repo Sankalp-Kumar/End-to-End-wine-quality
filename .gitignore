@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 # to ignore environment variables
 .env
+artifacts/
